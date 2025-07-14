@@ -1,0 +1,1 @@
+export const URL_BASE_API_CEP = 'https://viacep.com.br/ws/'
